@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །རྗེ་བཙུན་རས་པ་ཆེན་པོ་ལ་བརྟེན་པའི་བླ་མའི་རྣལ་འབྱོར་གྱི་ཟིན་བྲིས་ཡེ་ཤེས་གསལ་བྱེད་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། མི་བླའི་བླ་སྒྲུབ།
+  sku: LEK-PHI-089
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: An Elucidation of  Wisdom:A Note on Guru Yoga Practice of the Great Jetsun
+      Milarepa
+    bo: རྗེ་བཙུན་རས་པ་ཆེན་པོ་ལ་བརྟེན་པའི་བླ་མའི་རྣལ་འབྱོར་གྱི་ཟིན་བྲིས་ཡེ་ཤེས་གསལ་བྱེད་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 89
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༨༩
+  author:
+    en: Milai Ladrub
+    bo: མི་བླའི་བླ་སྒྲུབ།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-089
+  category:
+    en: Uncategorized
+    bo: སྡེ་ཚན་མེད་པ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-089.epub
+  description:
+    en: ''
+    bo: ''
